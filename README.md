@@ -1,4 +1,4 @@
-# From drawings -> to Radiance Field models -> to 3D meshes
+# From drawings -> to Radiance Fields -> to 3D meshes
 
 ![thesisnerf-gif-results-show](https://user-images.githubusercontent.com/32450751/189518406-6c535bcc-1258-4a65-9140-9624a7f17da3.gif)
 
