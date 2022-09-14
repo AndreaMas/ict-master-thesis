@@ -4,6 +4,6 @@
 
 This repo holds a PDF of my master's thesis.
 
-For my thesis, I used View-Synthesis SoA techniques (Neural Radiance Fields and Plenoxels) to attempt turning character turnarounds into 3D models!
+I used View-Synthesis SoA techniques (Neural Radiance Fields and Plenoxels) to attempt turning character turnarounds into 3D models!
 
 Video Presentation: https://youtu.be/vW27SPMV6tA
