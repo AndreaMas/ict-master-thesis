@@ -5,7 +5,7 @@
 How cool would it be to turn artist-drawn 2D character turnarounds into a 3D representation without having an artist 3D sculpt them? Or at least to have a good starting ground on which the 3D digital artists could build upon? This was the objective of my Master's thesis.
 
 
-As a solution, I chose to use novel View-Synthesis SoA techniques (Neural Radiance Fields and Plenoxels) to attempt turning character turnarounds into 3D models! Results show severe artifacts (as you can see above) but are nonetheless quite interesting!
+As a solution, I chose to use novel View-Synthesis SoA techniques (Neural Radiance Fields and Plenoxels) adapting them to this novel scenario. Results show severe artifacts (as you can see above) but are nonetheless quite interesting!
 
 
 This repo holds a PDF of my master's thesis.
